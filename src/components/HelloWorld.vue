@@ -11,7 +11,7 @@
       />
 
       <v-card variant="outlined" color="pink-accent-1" title="be my valentine?">
-        <v-img :src="currentGif" height="300" width="300" class="ml-12" />
+        <v-img :src="currentGif" height="300" width="300" class="ma-2" />
 
         <v-card-actions class="float-right mb-5">
           <v-btn
